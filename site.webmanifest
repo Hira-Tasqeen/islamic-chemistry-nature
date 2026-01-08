@@ -1,0 +1,16 @@
+{
+  "name": "Islamic Chemistry & Nature",
+  "short_name": "Islamic Science",
+  "start_url": "/islamic-chemistry-nature/index.html",
+  "display": "standalone",
+  "theme_color": "#0a2f3b",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/islamic-chemistry-nature/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
