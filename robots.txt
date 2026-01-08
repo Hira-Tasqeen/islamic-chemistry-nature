@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hira-tasqeen.github.io/islamic-chemistry-nature/sitemap.xml
